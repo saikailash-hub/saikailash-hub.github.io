@@ -1,0 +1,2 @@
+The real profile photo supplied for this portfolio is saved as assets/profile.jpg.
+Replace it only if you want to use a different professional photo.
